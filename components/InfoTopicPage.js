@@ -96,7 +96,7 @@ const InfoTopicPage = ({ route }) => {
 
     // show Mix
     const showMixology = () => {
-        if (topicData.topicid === "Mixology") {
+        if (topicData.topicid === "Mixing Notice") {
             const headTable = ['Medication', 'Effects'];
             return (
                 <View style={{ width: 327 }}>

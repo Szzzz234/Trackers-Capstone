@@ -238,7 +238,7 @@ export const InfoPage = (props) => {
             buttonStyles.defaultButton,
           ]}
           onPress={() =>
-            props.navigation.navigate("InfoTopicPage", { title: "Mixology" })
+            props.navigation.navigate("InfoTopicPage", { title: "Mixing Notice" })
           }
         >
           <View style={containerStyles.reverseRow}>
@@ -248,7 +248,7 @@ export const InfoPage = (props) => {
               resizeMode="contain"
             />
           </View>
-          <Text style={textStyles.whiteSemiBoldText}>Mixology</Text>
+          <Text style={textStyles.whiteSemiBoldText}>Mixing Notice</Text>
         </Pressable>
         {/* FAQ */}
         <Pressable
