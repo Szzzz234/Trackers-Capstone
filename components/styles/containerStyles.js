@@ -56,6 +56,15 @@ export const containerStyles = StyleSheet.create({
     marginVertical: "5%",
     minHeight: "10%",
   },
+  threeColumnContainer: {
+    // minWidth: "20%",
+    // marginHorizontal: "2.5%",
+    // marginVertical: "5%",
+    // minHeight: "10%",
+    flexDirection: "row",
+    justifyContent: "space-evenly",
+    alignItems: "center",
+  },
   // For titles on pages
   titleContainer: {
     paddingHorizontal: 6,
