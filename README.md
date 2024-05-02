@@ -39,22 +39,23 @@ Below, we describe the main files in this app. Each directory includes it's own 
 | [package-lock.json](./package-lock.json) and [package.json](./package.json) | Describe different versions of and names of packages/dependencies used to create this app |
 
 ## About Us
-<img align="right" height="170" src="./assets/avatars/Casual_Rosie_flipped.png"> 
-Hello! We're Team iBant, a group of four Informatics students studying at the University of Washington. Through this Capstone Project, we aim to utilize and reflect our education at the iSchool to produce a product that fills an information gap and creates positive social impact.
-<br>
-Upon reflecting on our personal and fellow peer's experiences, we decided to create a toolkit to help our fellow students with safe alcohol consumption practices. Overuse of alcohol and abuse that leads to unsafe drinking can be both dangerous in the moment and long term among young adults. Through this, we hope to fill the information gap and address misinformation regarding safe alcohol consumption.
+
+Hi there! We are Team Trackers, a group of five informatics students continuing the work of the capstone group iBant. Our aim is to help people who struggle with unhealthy drinking habits, such as emotional drinking, mixed drinking, and insufficient self-care after drinking. We have introduced several new features from the previous version, including an emotional state slider, age input, mixology information, self-care resources, emergency contact options, and notification settings. We hope you enjoy exploring the app!
+
 
 ### Project Contact Information
 Team iBant email: TeamiBant@gmail.com
 <br>
-Melina Perraut: mperraut@uw.edu
+Jessi Zeng: xuemiz@uw.edu
 <br>
-Emiri Nishizawa: emirin1@uw.edu
+Sid Zhang: junhaz2@uw.edu
 <br>
-Roshni Srikanth: rsrika@uw.edu
+Junna Cao: jnana@uw.edu
 <br>
-Gisele Fox: gjfox@uw.edu
+Niyat Efrem: niyate@uw.edu
+<br>
+Pooja Thorali: thoralip@uw.edu
 
-<div>
+<!-- <div>
 <img align="left" height="150" src="./assets/avatars/iBant/Melina avatar.png"> <img align="left" height="150" src="./assets/avatars/iBant/Emiri avatar.png"> <img align="left" height="150" src="./assets/avatars/iBant/Roshni avatar.png"> <img align="left" height="150" src="./assets/avatars/iBant/Gisele avatar.png"> 
-</div>
+</div> -->
