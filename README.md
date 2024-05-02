@@ -40,8 +40,7 @@ Below, we describe the main files in this app. Each directory includes it's own 
 
 ## About Us
 
-Hi there! We are Team Trackers, a group of five informatics students continuing the work of the capstone group iBant. Our aim is to help people who struggle with unhealthy drinking habits, such as emotional drinking, mixed drinking, and insufficient self-care after drinking. We have introduced several new features from the previous version, including an emotional state slider, age input, mixology information, self-care resources, emergency contact options, and notification settings. We hope you enjoy exploring the app!
-
+Hi there! We are Team Trackers, a group of five informatics students continuing the work of the capstone group iBant. Our aim is to help people who struggle with unhealthy drinking habits, such as emotional drinking, mixed drinking, and insufficient self-care after drinking. We have introduced several new features from the previous version, including an emotional state slider, age input, mixology information, self-care resources, emergency contact options, and notification settings. We hope you enjoy exploring the app!🥰
 
 ### Project Contact Information
 Team iBant email: TeamiBant@gmail.com
