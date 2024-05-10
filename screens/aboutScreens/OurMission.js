@@ -69,14 +69,6 @@ const OurMission = () => {
               From left to right below: Melina Perraut, Emiri Nishizawa, Roshni
               Srikanth, and Gisele Fox.{" "}
             </Text>
-            <Text style={containerStyles.centerContainer}>
-              We are <Text style={textStyles.redSemiBoldText}>Team Trackers</Text>,
-              a group of five undergraduate students at the University of
-              Washington Information School: Junna Cao, Niyat Efrem, Pooja Thorali, Xuemin Zeng, Junhan Sid Zhang
-              We followed work by <Text style={textStyles.redSemiBoldText}>Team iBant</Text>,
-              updated the interface, content in information hub, and added new features, including emotion slider,
-              emergency contant, notification.
-            </Text>
             <View
               style={[containerStyles.row, { width: "100%", height: "125px" }]}
             >
@@ -97,6 +89,14 @@ const OurMission = () => {
                 source={require("../../assets/avatars/iBant/Gisele avatar.png")}
               />
             </View>
+            <Text style={containerStyles.centerContainer}>
+              We are <Text style={textStyles.redSemiBoldText}>Team Trackers</Text>,
+              a group of five undergraduate students at the University of
+              Washington Information School: Junna Cao, Niyat Efrem, Pooja Thorali, Xuemin Zeng, Junhan Sid Zhang
+              We followed work by <Text style={textStyles.redSemiBoldText}>Team iBant</Text>,
+              updated the interface, content in information hub, and added new features, including emotion slider,
+              emergency contant, notification.
+            </Text>
             <Text style={[textStyles.redSemiBoldText, textStyles.size16]}>
               Our Findings and Solution Approach:
             </Text>
