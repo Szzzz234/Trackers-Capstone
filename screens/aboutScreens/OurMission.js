@@ -74,7 +74,7 @@ const OurMission = () => {
               a group of five undergraduate students at the University of
               Washington Information School: Junna Cao, Niyat Efrem, Pooja Thorali, Xuemin Zeng, Junhan Sid Zhang
               We followed work by <Text style={textStyles.redSemiBoldText}>Team iBant</Text>,
-              updated the interface, content in information hub, and added new features, including emoiton slider,
+              updated the interface, content in information hub, and added new features, including emoton slider,
               emergency contant, notification.
             </Text>
             <View
